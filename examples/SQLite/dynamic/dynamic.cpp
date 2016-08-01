@@ -2,6 +2,8 @@
 
 #include "ace/Auto_Functor.h"
 #include "ace/streams.h"
+#include "ace/Log_Msg.h"
+
 #include "adbc/SQLite/Connection.h"
 #include "adbc/SQLite/Exception.h"
 #include "adbc/destroy_t.h"
